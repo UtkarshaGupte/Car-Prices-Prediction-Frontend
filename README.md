@@ -59,3 +59,7 @@ Axios: HTTP client for making API requests.
 FastAPI: Backend framework for building API services.
 Python: Programming language for the backend service.
 
+
+![image](https://github.com/UtkarshaGupte/car-prices-prediction-frontend/assets/89600822/5919b508-d459-4438-83ae-091fadb03c9a)
+
+
